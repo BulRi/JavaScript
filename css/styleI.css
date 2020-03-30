@@ -1,0 +1,22 @@
+*{
+padding: 5px;
+margin: 20px;
+text-decoration:none;
+color:#000;
+}
+
+h1{
+	position:relative;
+	left: 35%;
+}
+content{
+	text-align:center;
+}
+a{
+	color: #FFF;
+}
+button{
+	background-color:#123098;
+	border:double;
+	border-color:#FFF;
+}
